@@ -1,4 +1,4 @@
-# HartReit <!-- omit in toc -->
+# HartReit 
 
 <p>
   <img align="left" width="250" src="./Images/HRLogo.svg" alt="Logo del proyecto">
@@ -8,4 +8,3 @@ Las personas con problemas cardiovasculares y especialmente las de la tercera ed
 
 En base a lo anterior surge **HartReit**, un prototipo IoT para el monitoreo del ritmo cardíaco que, en caso de situaciones peligrosas, genera alertas  mediante notificaciones a los familiares del paciente. Para el desarrollo del proyecto se usó el sensor **MAX30102**, la tarjeta de desarrollo **NodeMCU v3**, el **IDE de Arduino**, la plataforma **ThingSpeak** y la plataforma **IFTTT**. 
 
-## :clipboard: Contenido <!-- omit in toc -->
